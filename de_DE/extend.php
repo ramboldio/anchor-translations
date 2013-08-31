@@ -14,9 +14,9 @@ return array(
 	'editing_custom_field' => 'Bearbeite Feld &ldquo;%s&rdquo;',
 	'nofields_desc' => 'Noch keine Felder',
 
-	'create_variable' => 'Create a new variable',
-	'editing_variable' => 'Editing variable &ldquo;%s&rdquo;',
-	'novars_desc' => 'No variables yet',
+	'create_variable' => 'Neue Variable erstellen',
+	'editing_variable' => 'Bearbeite Variable &ldquo;%s&rdquo;',
+	'novars_desc' => 'noch keine Varibalen vorhanden',
 
 	// form fields
 	'type' => 'Typ',
